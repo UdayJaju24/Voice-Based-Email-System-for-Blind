@@ -9,3 +9,8 @@
 ```bash
 pip install smtplib
 ```
+## Install pyttsx3 library
+
+```bash
+pip install pyttsx3
+```
