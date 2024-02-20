@@ -14,3 +14,8 @@ pip install smtplib
 ```bash
 pip install pyttsx3
 ```
+## Install speechrecognition library
+
+```bash
+pip install SpeechRecognition
+```
