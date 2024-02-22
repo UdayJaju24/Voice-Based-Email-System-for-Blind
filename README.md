@@ -19,3 +19,4 @@ pip install pyttsx3
 ```bash
 pip install SpeechRecognition
 ```
+![](https://github.com/UdayJaju24/Voice-Based-Email-System-for-Blind/blob/de9fabbd73fd2385cd2cea66e8cebb59a5e6620c/img.png)
